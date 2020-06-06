@@ -2,6 +2,15 @@
   text-align: center;
 }
 
+.product{
+  float: left;
+    padding: 10px;
+    width: 30%;
+    background: rgb(240, 240, 240);
+    margin-left: auto;
+}
+
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
